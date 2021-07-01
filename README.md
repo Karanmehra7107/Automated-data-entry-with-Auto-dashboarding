@@ -39,3 +39,34 @@ __Automated-data-entry-with-Auto-dashboarding__
      Full Screen and zoom in the controls in the same ratio. Also, Combo-box dynamic so that we don’t need to add elements through VBA code. Just update the department name in Support Sheet and combo-box will get updated automatically.
   </li>
 </ul>
+
+
+
+
+## Team
+![1622949162341](https://user-images.githubusercontent.com/62024355/120911263-703dcf80-c6a3-11eb-874f-93b538270b4e.jpg)
+
+
+
+[Karan Mehra (Data modeling, model integration, Front-end)](https://karanmehra7107.github.io/My-Portfolio/index.html) <br> [Surbhi (Exploratory Data cleaning, Data gathering)](https://github.com/Surbhisingh014) 
+<br>[Navdeep Nijjar (Quality assurance, content writter)](https://karanmehra7107.github.io/My-Portfolio/index.html)
+
+
+__Special thanks to:__ Dr. Amar Singh (Assoicate professr) AI in data science & Machine learning.
+
+## License
+[![Apache license](https://img.shields.io/badge/license-apache-blue?style=for-the-badge&logo=appveyor)](http://www.apache.org/licenses/LICENSE-2.0e)
+
+Copyright 2021 Karan Mehra | Surbhi | Navdeep
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
