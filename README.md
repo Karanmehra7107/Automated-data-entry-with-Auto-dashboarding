@@ -1,4 +1,17 @@
-# Automated-data-entry-with-Auto-dashboarding
+__Automated-data-entry-with-Auto-dashboarding__
+
+![Pyhon 3.4](https://img.shields.io/badge/ide-Jupyter_notebook-blue.svg) ![Python](https://img.shields.io/badge/Language-Python-brightgreen.svg)  ![Frontend](https://img.shields.io/badge/Frontend-Bootstrap-purple.svg)  ![Frontend](https://img.shields.io/badge/Libraries-Streamlit-purple.svg)    ![Bootstrap](https://img.shields.io/badge/BaseEnvironment-AnacondaPrompt-brown.svg)   ![Bootstrap](https://img.shields.io/badge/Deployment-Github-yellow.svg)   ![Bootstrap](https://img.shields.io/badge/Debugging-LocalHost-blue.svg)  
+
+
+## Table of Content
+  * [Problem statment / Why this topic?](#Problem-statment)
+  * [Directory Tree](#directory-tree)
+  * [Quick start](#Quick-start)
+  * [Screenshots](#screenshots)
+  * [Technical Aspect](#technical-aspect)
+  * [Team](#team)
+  * [License](#license)
+
 
 ## This application is made with VBA Macros
 <p>
