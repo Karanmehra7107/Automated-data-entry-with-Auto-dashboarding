@@ -10,7 +10,6 @@ __Automated-data-entry-with-Auto-dashboarding__
   * [Procedure](#procedure)
   * [Screenshots](#screenshots)
   * [Features](#features)
-  * [Team](#team)
   * [License](#license)
 
 ## Problem statment
@@ -39,12 +38,6 @@ Created a data entry form based on User Form in Excel. Utilize the Excel sheet a
   </li>
 </ul>
 
-
-
-
-## Team
-
-[Karan Mehra (Data modeling, model integration, Front-end)](https://karanmehra7107.github.io/My-Portfolio/index.html) 
 
 
 ## License
