@@ -4,19 +4,18 @@ __Automated-data-entry-with-Auto-dashboarding__
 
 
 ## Table of Content
-  * [Problem statment / Why this topic?](#Problem-statment)
+  * [Problem statment](#Problem-statment)
   * [Directory Tree](#directory-tree)
-  * [Quick start](#Quick-start)
+  * [Quick start](#quick-start)
+  * [Procedure](#procedure)
   * [Screenshots](#screenshots)
-  * [Technical Aspect](#technical-aspect)
+  * [Features](#features)
   * [Team](#team)
   * [License](#license)
 
-
-## This application is made with VBA Macros
-<p>
-  Created a data entry form based on User Form in Excel. Utilize the Excel sheet as database and User Form to enter the data and transfer it to Database sheet.
-  </p>
+## Problem statment
+ 
+Created a data entry form based on User Form in Excel. Utilize the Excel sheet as database and User Form to enter the data and transfer it to Database sheet.
   
   # Procedure
   <ul>
