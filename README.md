@@ -16,7 +16,18 @@ __Automated-data-entry-with-Auto-dashboarding__
  
 Created a data entry form based on User Form in Excel. Utilize the Excel sheet as database and User Form to enter the data and transfer it to Database sheet.
   
-  # Procedure
+
+## Directory Tree
+
+
+
+
+## Quick start
+
+
+
+
+## Procedure
   <ul>
      <li> Preparing table for database </li>
      <li> Adding Module for function and procedure </li>
