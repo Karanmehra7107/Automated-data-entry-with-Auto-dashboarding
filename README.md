@@ -1,6 +1,6 @@
 # Automated-data-entry-with-Auto-dashboarding 
 
-![Excel V.13](https://img.shields.io/badge/ide-Excel-blue.svg) ![Python](https://img.shields.io/badge/Language-VBA-brightgreen.svg)  ![Frontend](https://img.shields.io/badge/Frontend-VBA Macros-purple.svg) ]
+![Excel V.13](https://img.shields.io/badge/ide-Excel-blue.svg) ![Python](https://img.shields.io/badge/Language-VBA-brightgreen.svg)  ![Frontend](https://img.shields.io/badge/Frontend-VBA-Macros-purple.svg) ]
 
 
 ## Table of Content
