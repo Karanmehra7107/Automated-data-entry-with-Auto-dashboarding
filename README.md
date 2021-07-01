@@ -15,3 +15,12 @@
      <li> Debugging and compiling the code </li>
      <li> Testing the application </li> 
  </ul>
+
+<ul>
+  <li>
+ Adding features like EDIT and DELETE features. 
+  </li>
+  <li>
+ Adding features like Search and Filter features. 
+  </li>
+</ul>
