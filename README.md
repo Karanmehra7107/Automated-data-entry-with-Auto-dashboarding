@@ -18,9 +18,6 @@
 
 <ul>
   <li>
- Adding features like EDIT and DELETE features. 
-  </li>
-  <li>
- Adding features like Search and Filter features. 
+ Adding features like EDIT, DELETE, SEARCH and FILTER features, Serial number dynamic, validate the entries before saving & printing the data and printing the employee details or export to PDF if printer is not installed on your system. 
   </li>
 </ul>
