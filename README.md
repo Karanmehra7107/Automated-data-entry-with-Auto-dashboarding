@@ -19,5 +19,6 @@
 <ul>
   <li>
  Adding features like EDIT, DELETE, SEARCH and FILTER features, Serial number dynamic, validate the entries before saving & printing the data and printing the employee details or export to PDF if printer is not installed on your system. 
+     Full Screen and zoom in the controls in the same ratio. Also, Combo-box dynamic so that we don’t need to add elements through VBA code. Just update the department name in Support Sheet and combo-box will get updated automatically.
   </li>
 </ul>
