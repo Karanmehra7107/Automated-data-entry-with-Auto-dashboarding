@@ -19,6 +19,15 @@ Created a data entry form based on User Form in Excel. Utilize the Excel sheet a
 
 ## Directory Tree
 
+```
+├── Fully-Automated-Data-Entry-Form-in-Excel-Part-5.xlsm
+│    ├── Home sheet
+│    ├── Datasheet sheet
+│    ├── SearchData sheet
+│    ├── Print sheet
+│    └── Support sheet
+
+```
 
 
 
@@ -57,7 +66,7 @@ Created a data entry form based on User Form in Excel. Utilize the Excel sheet a
  </li>
  <li> FILTER 
  </li> 
- <li>>  
+ <li>  
   Serial number dynamic
  </li>
  <li>
