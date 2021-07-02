@@ -57,9 +57,19 @@ Created a data entry form based on User Form in Excel. Utilize the Excel sheet a
  </li>
  <li> FILTER 
  </li> 
- <p> Serial number dynamic, validate the entries before saving & printing the data and printing the employee details or export to PDF if printer is not installed on your system. 
-     Full Screen and zoom in the controls in the same ratio. Also, Combo-box dynamic so that we don’t need to add elements through VBA code. Just update the department name in Support Sheet and combo-box will get updated automatically.
- </p>
+ <li>>  
+  Serial number dynamic
+ </li>
+ <li>
+ Validate the entries before saving & printing the data and printing the employee details
+ </li>
+ <li> Export to PDF if printer is not installed on your system
+ </li>
+ <li> Full Screen and zoom in the controls in the same ratio
+ </li>
+ <li> Combo-box dynamic so that we don’t need to add elements through VBA code
+ </li>
+ <li>Just update the department name in Support Sheet and combo-box will get updated automatically
  </li>
 </ul>
 
