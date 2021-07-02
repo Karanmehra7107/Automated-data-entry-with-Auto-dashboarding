@@ -33,7 +33,10 @@ Created a data entry form based on User Form in Excel. Utilize the Excel sheet a
 
 ## Quick start
 
+```
+gh repo clone Karanmehra7107/Automated-data-entry-with-Auto-dashboarding
 
+```
 
 
 ## Procedure
