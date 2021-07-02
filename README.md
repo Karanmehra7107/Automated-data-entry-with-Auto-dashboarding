@@ -57,6 +57,14 @@ gh repo clone Karanmehra7107/Automated-data-entry-with-Auto-dashboarding
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/62024355/124174733-589f0e80-daca-11eb-9d7c-3516f8c65678.png)
 
+![image](https://user-images.githubusercontent.com/62024355/124314139-9023be80-db8f-11eb-9c19-2124068b23cb.png)
+
+![image](https://user-images.githubusercontent.com/62024355/124314219-ab8ec980-db8f-11eb-9904-f58fe99a73f8.png)
+
+![image](https://user-images.githubusercontent.com/62024355/124314280-bea19980-db8f-11eb-92c8-3c991ab723e7.png)
+
+![image](https://user-images.githubusercontent.com/62024355/124314347-e133b280-db8f-11eb-849d-579c998eda32.png)
+
 
 ## Features  
 <li>
